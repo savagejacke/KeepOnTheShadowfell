@@ -4,3 +4,4 @@
 
 - [Intro](intro.md)
 - [Chapter 1 - On the King's Road](kingsroad.md)
+- [Chapter 2 - Winterhaven](winterhaven.md)
