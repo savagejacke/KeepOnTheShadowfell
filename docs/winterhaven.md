@@ -4,6 +4,12 @@ Winterhaven is a small walled town near the mountains that has become popular as
 
 The players should spend a lot of time in WInterhaven in later chapters, so refer back to this chapter when you need to know anything about Winterhaven.
 
+## Entering the town
+
+    As you manage to get to the top of the hill you reach the arch that allows entry into the walls of the town of Winterhaven. There is no gate, only the hinges on which it once stood. "Why do you come travelers?" You hear shouted from someone above on the wall.
+
+The guard allows the players in as long as the players don't say something really stupid that would make them not want to.
+
 ## Locations in Winterhaven
 
 1. Entrance Gate - A stone gate built into the wall surrounding the town. This is the only way to get in or out of WInterhaven.
