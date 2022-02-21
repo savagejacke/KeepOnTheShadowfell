@@ -38,12 +38,6 @@ The guard allows the players in as long as the players don't say something reall
 - Bella - Female elf follower of Kalarel undercover at the Winter's Hold
 - Erasmus - Male human follower of Kalarel undercover at Matron's Embrace
 
-## Entering the town
-
-    As you manage to get to the top of the hill you reach the arch that allows entry into the walls of the town of Winterhaven. There is no gate, only the hinges on which it once stood. "Why do you come travelers?" You hear shouted from someone above on the wall.
-
-The guard allows the players in as long as Ian does't say something really retarded that would make them not want to.
-
 When the players go to the Winter's Hold, Run [The Winter's Hold](wintershold.md)
 
 Once the players have met Kalarel, they level up to level 3.
