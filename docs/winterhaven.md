@@ -1,8 +1,8 @@
 # Chapter 2 - Winterhaven
 
-Winterhaven is a small walled town near the mountains that has become popular as a haven against the winter (hence the name). It is so popular because a magical lava river of unknown origin flows through the center of the town, keeping it unusually warm.
+Winterhaven is a small walled town at the base of the mountains that has become popular as a haven against the winter (hence the name). It is so popular because a magical lava river of unknown origin flows through the center of the town, keeping it unusually warm.
 
-The players should spend a lot of time in WInterhaven in later chapters, so refer back to this chapter when you need to know anything about Winterhaven.
+The players should spend a lot of time in Winterhaven in later chapters, so refer back to this chapter when you need to know anything about Winterhaven.
 
 ## Entering the town
 
@@ -14,10 +14,10 @@ The guard allows the players in as long as the players don't say something reall
 
 1. Entrance Gate - A stone gate built into the wall surrounding the town. This is the only way to get in or out of WInterhaven.
 2. Lava River - The magical lava flow that flows through the town, emerging from the ground under the northern wall and reentering  under the southern wall.
-3. Blacksmith - The Blacksmith's building, currently closed.
+3. [Blacksmith](blacksmith.md)
 4. Home - Someone's House
 5. Farmers' Haven - The building where permanent farmers who live around the town can spend their summers
-6. Winter's Hold - The inn in the town. This is also the hub of the tenement houses (marked as H on the map).
+6. [The Winter's Hold](wintershold.md) - The inn in the town. This is also the hub of the tenement houses (marked as H on the map).
 7. Home - Someone's House
 8. Home - Someone's House
 9. Home - Someone's House
@@ -37,10 +37,6 @@ The guard allows the players in as long as the players don't say something reall
 - Audric - Human bartender at the Winter's Hold
 - Bella - Female elf follower of Kalarel undercover at the Winter's Hold
 - Erasmus - Male human follower of Kalarel undercover at Matron's Embrace
-
-When the players go to the Winter's Hold, Run [The Winter's Hold](wintershold.md)
-
-Once the players have met Kalarel, they level up to level 3.
 
 **TODO** Add an image of a map of Winterhaven
 

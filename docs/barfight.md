@@ -19,4 +19,6 @@ Almost immediately afterward, 4 goblins rush in alongside Kalarel:
 
 If the players try to fight Kalarel, he will cast a third-level [thunderwave](https://www.dndbeyond.com/spells/thunderwave) spell at all but one of the party members, leaving them for dead (the other player and the townsfolk can heal them). If they won't stop attacking, he will kill the one player he left conscious then leaves. If asked, the people in the inn can tell the players that the man was Kalarel the Vile and that he has been reigning over the town for months.
 
+Once the players have met Kalarel, they level up to level 3.
+
 [Return to Chapter 2](winterhaven.md)
