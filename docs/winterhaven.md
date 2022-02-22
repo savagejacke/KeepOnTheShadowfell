@@ -22,7 +22,7 @@ The guard allows the players in as long as the players don't say something reall
 8. Home - Someone's House
 9. Home - Someone's House
 10. Home - Someone's House
-11. Matron's Embrace - Temple worshiping the Matron of Snow. When the adventurers arrive, the doors are closed, as Kalarel is suppressing worship of anyone but Orcus.
+11. [Matron's Embrace](temple.md)
 12. Central Arch - An arch dividing the town between the Lord's manor and the main town square.
 13. Lord's Manor - The Lord Silas Taylor's family manor.
 14. Troop Barracks - Barracks for the volunteer army when the town is locked down.
@@ -31,12 +31,16 @@ The guard allows the players in as long as the players don't say something reall
 ## Notable people in Town
 
 - Kalarel the Vile, Psion of Orcus
-- Lord Silas Taylor - The  human Lord of Winterhaven
+- Lord Silas Taylor II - The  human Lord of Winterhaven
 - Bijaz Ferrus - The dwarf blacksmith (not allowed to work by Kalarel)
-- Haius - Human Priestess of Hiem
+- Haius - Human Priestess of the Matron of Snow
 - Audric - Human bartender at the Winter's Hold
 - Bella - Female elf follower of Kalarel undercover at the Winter's Hold
 - Erasmus - Male human follower of Kalarel undercover at Matron's Embrace
+
+## Lord Silas Taylor II
+
+Lord Silas Taylor II is the Lord of Winterhaven. He was very well loved until the coming of Kalarel. The day Kalarel arrived in Winterhaven, Silas' son and heir Silas III took sick and soonafter died. Since then Lord Taylor has been far too terrified for the health of his wife Eris and his remaining infant son, Wardric to raise any resistance to Kalarel's reign of tower. Much of Kalarel's power in Winterhaven is derived from the lack of resistance from lord Taylor. After Silas III's death, Lord Taylor began praying to Orcus in secret out of fear that He sent the sickness that killed Silas III, although he has not forsaken his worship of the Matron of Snow. The only way that Silas could be conviced to stand against Kalarel is if he could be if he believed that doing so would protect his family more than Kalrel and Orcus could.
 
 **TODO** Add an image of a map of Winterhaven
 
