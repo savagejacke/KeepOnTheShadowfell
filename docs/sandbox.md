@@ -9,6 +9,7 @@ In this part of the adventure, the party has the opportunity to explore the area
 - The PCs can explore the excavation of a long dead [dragon's lair](excavation.md)
 - Kill Kalarel's top lieutenant, Balgron the Fat (the bugbear in the [goblin lair](https://www.dndbeyond.com/sources/lmop/goblin-arrows#CragmawHideout) in the Lost Mine of Phandelver)
 - Kalarel sends a lieutenant (deathlock) after the party if they start getting rid of Murgo Gold
+- A shadow has killed a family of farmers and they will raise as shadows at dusk
 
 ## Things that should happen
 
