@@ -4,6 +4,8 @@ This section should be the most expansive part of the adventure. The players sho
 
 In this part of the adventure, the party has the opportunity to explore the area around Winterhaven, so that they can learn about what Kalarel has been doing and what they can do to help.
 
+You should keep count of each player's kill tally so that for use in Encounter 3.1.
+
 ## Things that can happen
 
 - The PCs can explore the excavation of a long dead [dragon's lair](excavation.md)
@@ -13,6 +15,6 @@ In this part of the adventure, the party has the opportunity to explore the area
 
 ## Things that should happen
 
-- The second time that the party encounter Kalarel, run Encounter 3.1
+- The second time that the party encounter Kalarel, run [Encounter 3.1](murgodeal.md)
 
 [Return to the Table of Contents](index.md)
