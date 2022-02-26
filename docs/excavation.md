@@ -53,4 +53,8 @@ If any player succeeds on a DC 15 Wisdom (insight) check, then they notice that 
 
 If the party spend much time at the excavation, you can run this encounter to pass the time. A group of Orcs attack the digsite. This allows the party to get into a scrap to pass the time, and show that Vagak could be a threat.
 
+## Return
+
+If the party returns to the digsite after their cave-in. The cave-in has blocked the tunnel they were working on, so they're assigned to a different mine that doesn't lead directly into the dragon's lair. At some point, a [Gallows Speaker](https://www.dndbeyond.com/monsters/gallows-speaker) floats through a wall and attacks the party. Anyone who has researched undead can attempt a DC 20 Intelligence (religion) check to recall how a Gallows Speaker is created.
+
 [Return to Chapter 3](sandbox.md)
