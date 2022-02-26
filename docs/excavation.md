@@ -19,9 +19,11 @@ If the PCs don't make a fuss, he takes them to see Kern. The Goliath introduces 
 
 The payment that Kern gives is non-negotiable, if the PCs try, he says "We've no shortage of work, take it or someone else will." The party are provided with pickaxes and sent into the mine.
 
-## Mining
+## At the Digsite
 
-If it seems like the players intend on spending multiple days at the excavation allow them to do so and award them treasure based on Strength (athletics) checks that they roll. If they stay for a while, they may notice some shifty activity as Kern and some of his underlings rig a tunnel to collapse. At some point before the party leaves. run the following encounter:
+If it seems like the players intend on spending multiple days at the excavation allow them to do so and award them treasure based on Strength (athletics) checks that they roll. The PCs are provided with a tent to sleeep in for every two party members. If they stay for a while, they may notice some shifty activity as Kern and some of his underlings rig a tunnel to collapse. At some point before the party leaves. You can also run Orcs Attack while they are at the site. At some point run Cave-In.
+
+## Cave-In
 
 Have the players roll Strength (athletics) checks, and read the following to whoeve rolls the highest:
 
@@ -31,6 +33,24 @@ As this player examines the dragon scale, read the following to whoever rolls th
 
     The sound of your pickaxe agaisnt stone seems to reverberate a bit more than it has been in your time mining. Then one hit causes it to break apart, showing a large cave ahead. A few moments later you hear a large BOOM from behind you. All of you turn around to see stones falling from the top of yor mineshaft. It's caving in! What do you do?
 
-The party is now in a skill challenge. They must succeed on 5 skill checks before they fail 3 to succeed. If they never fail, they manage to excape unscathed, and all of the other 3 people in who they were mining with 
+The party is now in a skill challenge. They must succeed on 5 skill checks before they fail 3 to succeed. For every failure, the PC attempting the check takes some amount of bludgeoning damage, and one of the 3 people they were working with is killed.  
+As they manage to escape, Kern and his undrlings are there to help get anyone who is clearly going to survive out of the wreckage, and clearing out the cave-in to get to any bodies. Roll a Dexterity (sleight of hand) check for Kern, and anyone with a passive perception exceeding his roll notices him pocketing something. If their score is 5 or more above his roll, they recognize the Murgo Gold.  
+If anyone was killed, Kalarel shows up. Read this to the party:
+
+    From seemingly out of nowhere. You see a familiar man, clad in deep purple, floating up to the cave-in. Kalarel floats to Vagak, who you now see carrying the bodies of the workers who were killed. He says, "Once again, you have something for me," and he drops one piece of blood-red gold into the goliath's hand, who passes the bodies off to a group of goblins.
+
+If the players have received any Murgo Gold, whether or not they have disposed of it, Kalarel approaches the PC who he gave the cursed coins to. Read:
+
+    Kalarel then floats over to you, as you tend to your bruises. He lands gently and puts a cold hand on your shoulder "We seem to run into each other quite often. It's always a pleasure to see the face of a friend." He pats your cheek, and, with a smile, floats off toward his goblin cohorts.
+
+If noone was killed, read:
+
+    With a surprised look, Kern runs over to your group. "I see you all are unharmed for the most part. A most welcome surprise! I hope that this does not dampen your enthusiasm for working with us."
+
+If any player succeeds on a DC 15 Wisdom (insight) check, then they notice that Kern is somewhat dissapointed about something. Kern is willing to pay anyone who survives a cave-in a small bonus if they choose to stay. If they don't choose to stay, he sends Vagak after them who goes to Winterhaven, and fights the party if he finds them, or is assured that they aren't spreading any rumors if he can't find them in the town.
+
+## Orcs Attack
+
+If the party spend much time at the excavation, you can run this encounter to pass the time. A group of Orcs attack the digsite. This allows the party to get into a scrap to pass the time, and show that Vagak could be a threat.
 
 [Return to Chapter 3](sandbox.md)
