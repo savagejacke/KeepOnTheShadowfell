@@ -44,4 +44,4 @@ Lord Silas Taylor II is the Lord of Winterhaven. He was very well loved until th
 
 **TODO** Add an image of a map of Winterhaven
 
-[Return to the Table of Contents](index.md)
+[Return to the Table of Contents](../index.md)

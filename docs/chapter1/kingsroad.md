@@ -17,4 +17,4 @@ If the PCs attempt to follow the Kobolds to their lair, if any player succeeds a
 
 Whether or not the players go to the Delian Tomb, they should finish their journey to Winterhaven after their encounters, at which point they reach level 2.
 
-[Return to the Table of Contents](index.md)
+[Return to the Table of Contents](../index.md)

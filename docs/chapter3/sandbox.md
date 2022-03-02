@@ -17,4 +17,4 @@ You should keep count of each player's kill tally so that for use in Encounter 3
 
 - The second time that the party encounter Kalarel, run [Encounter 3.1](murgodeal.md)
 
-[Return to the Table of Contents](index.md)
+[Return to the Table of Contents](../index.md)
